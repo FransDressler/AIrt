@@ -4,7 +4,7 @@ This notebook is about an Artificial Intelligence which should be used for photo
 
 ## Requirements
 
-I would recommend using colab.research.google.com as an IDE because you'll need a GPU to train it. The training approximatly takes a few hours.
+I would recommend using https://www.colab.research.google.com as an IDE because you'll need a GPU to train it. The training approximatly takes a few hours.
 
 Besides that you need the datasets which you can download here: https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
  I would recommend only downloading one of the three artists and changing our code to only train on that one artist. 
